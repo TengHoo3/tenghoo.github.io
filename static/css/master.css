@@ -1,0 +1,15 @@
+/* .hide-navigation-item {
+    display: none;
+} */
+
+.nav-link:hover{
+    color: #c46f00 !important;
+}
+
+.navbar:hover{
+    background-color: #000 !important;
+}
+
+#blue{
+    color: rgb(0, 4, 255);
+}

@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Thanks for signing up <span id="blue">{{ User }}!</span></h1>
+<h6><a href="{% url 'home' %}"> Click here</a> to go back to home</h6>
+{% endblock %}
